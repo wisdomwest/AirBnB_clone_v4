@@ -159,6 +159,6 @@ Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://tw
 Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
 David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
 
-Harmony  - [Github](https://github.com/wisdomwest/) / [Twitter](https://twitter.com/_Wizzie_k)
+Harmony Wisdom - [Github](https://github.com/wisdomwest/) / [Twitter](https://twitter.com/_Wizzie_k)
 ## License
 Public Domain. No copy write protection. 
